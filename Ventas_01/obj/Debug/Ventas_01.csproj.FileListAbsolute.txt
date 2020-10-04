@@ -1,0 +1,17 @@
+C:\Users\paula\source\repos\taller1\Ventas_01\bin\Debug\Ventas_01.exe.config
+C:\Users\paula\source\repos\taller1\Ventas_01\bin\Debug\Ventas_01.exe
+C:\Users\paula\source\repos\taller1\Ventas_01\bin\Debug\Ventas_01.pdb
+C:\Users\paula\source\repos\taller1\Ventas_01\obj\Debug\Ventas_01.Properties.Resources.resources
+C:\Users\paula\source\repos\taller1\Ventas_01\obj\Debug\Ventas_01.csproj.GenerateResource.cache
+C:\Users\paula\source\repos\taller1\Ventas_01\obj\Debug\Ventas_01.csproj.CoreCompileInputs.cache
+C:\Users\paula\source\repos\taller1\Ventas_01\obj\Debug\Ventas_01.exe
+C:\Users\paula\source\repos\taller1\Ventas_01\obj\Debug\Ventas_01.pdb
+C:\Users\paula\source\repos\taller1\Ventas_01\obj\Debug\Ventas_01.csprojAssemblyReference.cache
+C:\Users\paula\source\repos\taller1\Ventas_01\bin\Debug\Ventas.LogicaNegocio.dll
+C:\Users\paula\source\repos\taller1\Ventas_01\bin\Debug\VentasEntidades.dll
+C:\Users\paula\source\repos\taller1\Ventas_01\bin\Debug\Ventas.Datos.dll
+C:\Users\paula\source\repos\taller1\Ventas_01\bin\Debug\Ventas.LogicaNegocio.pdb
+C:\Users\paula\source\repos\taller1\Ventas_01\bin\Debug\VentasEntidades.pdb
+C:\Users\paula\source\repos\taller1\Ventas_01\bin\Debug\Ventas.Datos.pdb
+C:\Users\paula\source\repos\taller1\Ventas_01\obj\Debug\Ventas_01.Categorias.resources
+C:\Users\paula\source\repos\taller1\Ventas_01\obj\Debug\Ventas_01.csproj.CopyComplete

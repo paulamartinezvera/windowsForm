@@ -1,0 +1,11 @@
+C:\Users\paula\source\repos\taller1\Ventas.LogicaNegocio\bin\Debug\Ventas.LogicaNegocio.dll
+C:\Users\paula\source\repos\taller1\Ventas.LogicaNegocio\bin\Debug\Ventas.LogicaNegocio.pdb
+C:\Users\paula\source\repos\taller1\Ventas.LogicaNegocio\bin\Debug\Ventas.Datos.dll
+C:\Users\paula\source\repos\taller1\Ventas.LogicaNegocio\bin\Debug\VentasEntidades.dll
+C:\Users\paula\source\repos\taller1\Ventas.LogicaNegocio\bin\Debug\Ventas.Datos.pdb
+C:\Users\paula\source\repos\taller1\Ventas.LogicaNegocio\bin\Debug\VentasEntidades.pdb
+C:\Users\paula\source\repos\taller1\Ventas.LogicaNegocio\obj\Debug\Ventas.LogicaNegocio.csprojAssemblyReference.cache
+C:\Users\paula\source\repos\taller1\Ventas.LogicaNegocio\obj\Debug\Ventas.LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\paula\source\repos\taller1\Ventas.LogicaNegocio\obj\Debug\Ventas.LogicaNegocio.csproj.CopyComplete
+C:\Users\paula\source\repos\taller1\Ventas.LogicaNegocio\obj\Debug\Ventas.LogicaNegocio.dll
+C:\Users\paula\source\repos\taller1\Ventas.LogicaNegocio\obj\Debug\Ventas.LogicaNegocio.pdb
